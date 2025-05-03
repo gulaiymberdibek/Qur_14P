@@ -3,7 +3,9 @@ Qur.kz-is a website where people can connect and share their experiences.It is a
 Project video demo: <br>
 https://github.com/user-attachments/assets/9a668bb3-d3d1-405d-b933-7746dde8f4e9
 # Problem Statement:
-In Kazakhstan and Central Asia, there's a lack of localized, community-driven platforms where users can freely share thoughts, engage in public discussions, and connect over real-time, text-based content. Global social networks often overlook regional languages, cultural nuances, and local relevance. As a result, users feel disconnected or censored in broader platforms that don’t cater to their identity, community, or local issues.
+In Kazakhstan there are a lot of people who are struggling to learn kazakh language.We thought that  this is because they are used to sharing their thoughts in other languages,
+especcially in social media.So we made a website in kazakh so people normalize sharing content in kazakh.Some people think posting in kazakh is cringe,because less people do it.
+We want to dispose this stereotype.So we made a platform where kazakh is the main language and others are alternatives.
 # Objectives:
 1.Language help:<br>
 Website is written in kazakh language so it encourages users to write and make posts in kazakh.Some people struggle to learn kazakh language.So it is a great platform to even connect internation people to learn and connect with Kazakh people like Hellotalk for english.<br>
