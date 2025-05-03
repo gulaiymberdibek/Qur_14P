@@ -1,4 +1,4 @@
-![Снимок экрана 2025-05-03 180908](https://github.com/user-attachments/assets/63a6ba50-dde8-413f-b5ea-8e24f5635dea)Introduction: <mark>
+<mark>Introduction:  </mark>
 Qur.kz-is a website where people can connect and share their experiences.It is a kazakh version of Threads.The main idea was to make a platform for sharing and connection.
 Problem Statement: <mark>
 In Kazakhstan and Central Asia, there's a lack of localized, community-driven platforms where users can freely share thoughts, engage in public discussions, and connect over real-time, text-based content. Global social networks often overlook regional languages, cultural nuances, and local relevance. As a result, users feel disconnected or censored in broader platforms that don’t cater to their identity, community, or local issues.
